@@ -1,2 +1,2 @@
 # visual-studio
-cisual studio exerscie files
+visual studio exerscie files
